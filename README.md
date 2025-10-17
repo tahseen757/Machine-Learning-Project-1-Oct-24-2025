@@ -1,0 +1,1 @@
+This project contains a script for the model Gradient Boosting Regressor where the model is used to predict Miles per Gallon (mpg) given various infometrics on the car. The model is sklearn based and the data used is pulled from Seaborn datasets. 
